@@ -3,5 +3,4 @@
 
 🧠 Skills: Learning Python 3, Django, Flask.
 
-
-[(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastafer/)
+[!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/lucastafer/)
