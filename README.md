@@ -1,6 +1,6 @@
-🤠 Hello, my name is Lucas. I'm a Python student, starting my studies to work as a Back-End Python Developer as soon.
+🤠 Hello, my name is Lucas. I'm a Python student, studying to work as a Back-End Python Developer as soon.
 
-🧠 Skills: Learning Python 3, Django, HTML, CSS, JavaScript, and more.
+🧠 Skills: Learning Python 3, Django, HTML, CSS, JavaScript and more.
 
 ✉️ If you want to talk to me, text me on LinkedIn:
 
