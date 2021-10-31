@@ -1,9 +1,3 @@
-
-
-✉️ If you want to talk to me, text me on Gmail or LinkedIn:
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 🤠 Hello, my name is Lucas. 
 ## I'm a Python student, studying to work as a Back-End Python Developer as soon.
 <div align="center">
