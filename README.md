@@ -16,7 +16,7 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+ ##
  ## ✉️ If you want to talk to me, text me on Gmail or LinkedIn:
 <div> 
   <a href = "mailto:lucas.taferdevs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
