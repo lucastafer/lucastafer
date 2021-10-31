@@ -1,4 +1,4 @@
-## 🤠 Hello, my name is Lucas. I'm a Python student, studying to work as a Back-End Python Developer as soon.
+## 🤠 Hello, my name is Lucas. I'm a programming student, studying to work as a Developer as soon.
 
 <div align="center">
   <a href="https://github.com/lucastafer">
