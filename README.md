@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=https://www.linkedin.com/in/lucastafer/)](https://www.linkedin.com/in/lucastafer/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🤠 Hello, my name is Lucas. I'm a Python student, studying to work as a Back-End Python Developer as soon.
+🤠 Hello, my name is Lucas. I'm a Python student, studying to work as a Back-End Python Developer as soon.
 <div align="center">
   <a href="https://github.com/lucastafer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastafer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
