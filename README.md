@@ -1,6 +1,5 @@
 ## 🤠 Hello, my name is Lucas! 
 ## 💻 I'm a programming student, studying to work as a Developer as soon.
- ![#1589F0](Olá) `#1589F0`
 
 <div align="center">
   <a href="https://github.com/lucastafer">
