@@ -1,5 +1,5 @@
-## 🤠 Hello, my name is Lucas! 
-## 💻 I'm a programming student, studying to work as a Developer as soon.
+## 🤠  Hello, my name is Lucas! 
+## 💻  I'm a programming student, studying to work as a Developer as soon.
 
 <div align="center">
   <a href="https://github.com/lucastafer">
@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastafer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 🧠 Skills: Learning Python 3, HTML, CSS, JavaScript and more.
+## 🧠  Skills: Learning Python 3, HTML, CSS, JavaScript and more.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
