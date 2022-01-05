@@ -1,11 +1,11 @@
-## 🤠 Hello, my name is Lucas!<br/><br/>💻 I'm a programming student, studying to work as a Developer as soon.
+<h2>🤠 Hello, my name is Lucas!<br/><br/>💻 I'm a programming student, studying to work as a Developer as soon.</h2>
 <div align="center">
   <a href="https://github.com/lucastafer">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucastafer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastafer&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-## 🧠  Skills and Tools
+  <h2>🧠  Skills and Tools</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
