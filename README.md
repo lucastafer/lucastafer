@@ -1,4 +1,4 @@
-<h2>🤠 Hello, my name is Lucas!<br/><br/>💻 I'm a programming student, studying to work as a Developer as soon.</h2>
+<h2> Hello, my name is Lucas!<br/><br/>💻 I'm a programming student, studying to work as a Developer as soon.</h2>
 <div align="center">
   <a href="https://github.com/lucastafer">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucastafer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
