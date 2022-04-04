@@ -1,6 +1,6 @@
 <h2> Hello, my name is Lucas!
   <br/><br/>
-  💻 I'm a programming student, studying to work as a Full Stack Developer as soon, focusing on React & Node JS.
+  💻 I'm a Full Stack Developer, currently working with React.js and Typescript.
   <br/><br/>
   🎨 Check my personal website: <a target="_blank" href="https://lucastafer.herokuapp.com/">lucastafer.herokuapp.com</a>
 </h2>
