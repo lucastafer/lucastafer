@@ -5,11 +5,7 @@
   🎨 Check my personal website: <a target="_blank" href="https://lucastafer.herokuapp.com/">lucastafer.herokuapp.com</a>
 </h2>
 
-<div align="center">
-  <a href="https://github.com/lucastafer">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucastafer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastafer&layout=compact&langs_count=16&theme=dark"/>
-</div>
+<br>
 
 <h2>🖥️ Front-End Skills and Tools</h2>
 <div style="display: inline_block"><br>
@@ -23,7 +19,7 @@
   <img align="center" alt="Lucas-Bulma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
 </div>
   
-  <br>
+<br>
   
 <h2>⚙️ Back-End Skills and Tools</h2>
 <div style="display: inline_block"><br>
@@ -32,14 +28,4 @@
   <img align="center" alt="Lucas-Mongo" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Lucas-Mysql" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-</div>
-  
-##
-## ✉️ If you want to talk to me, text me on LinkedIn or send me an e-mail:
-  <br>
-<div>
-  <a href="https://www.linkedin.com/in/lucastafer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a>
-  <a href = "mailto:lucastafer.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
- 
 </div>
