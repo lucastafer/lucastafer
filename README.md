@@ -5,7 +5,6 @@
   💻 I'm a Full Stack Developer, currently working with React and Typescript.
   <br>
   <br>
-  🎨 Check my personal website: <a target="_blank" href="https://lucastafer.herokuapp.com/">lucastafer.herokuapp.com</a>
 </h2>
 
 <br>
