@@ -2,7 +2,7 @@
   Hello, my name is Lucas!
   <br>
   <br>
-  💻 I'm a Full Stack Developer, currently working with React and Typescript.
+  💻 I'm a Front End Developer, currently working with React and Typescript.
   <br>
   <br>
 </h2>
