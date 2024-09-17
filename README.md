@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-  <p>Hello, my name is Lucas!</p>
-  <p>💻 I'm a developer currently working in front-end and mobile development.</p>
-  <p>📚 Currently learning Dart/Flutter and Docker.</p>
-  <p>🛠️ Main Stack</p>
+  <p><strong style="font-size: 24px;">Hello, my name is Lucas!</strong></p>
+  <p><strong style="font-size: 20px;">💻 I'm a developer currently working in front-end and mobile development.</strong></p>
+  <p><strong style="font-size: 20px;">📚 Currently learning Dart/Flutter and Docker.</strong></p>
+  <p><strong style="font-size: 20px;">🛠️ Main Stack</strong></p>
   <div style="display: inline-block; margin-top: 20px;">
     <img alt="javascript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img alt="typescript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
