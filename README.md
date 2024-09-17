@@ -2,15 +2,13 @@
   Hello, my name is Lucas!
   <br/>
   <br/>
-  💻 I'm a Developer, currently working with React and Typescript focused on front end web development.
+  💻 I'm a developer currently working in front-end and mobile development.
   <br/>
   <br/>
   📚 Currently learning Dart/Flutter and Docker.
   <br/>
   <br/>
 </h2>
-
-<br>
 
 <h2>🛠️ Main Stack</h2>
 <div style="display: inline_block">
