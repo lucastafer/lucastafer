@@ -4,6 +4,7 @@
   <br>
   💻 I'm a Developer, currently working with React and Typescript focused on front end web development.
   <br>
+  💻 Studying: Darta/Flutter and Docker.
   <br>
 </h2>
 
