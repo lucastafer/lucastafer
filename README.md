@@ -10,8 +10,10 @@
   <br/>
 </h2>
 
-<h2>🛠️ Main Stack</h2>
-<div style="display: inline_block">
+<h2>🛠️ Main Stack
+<br/>
+<br/>
+  <div style="display: inline_block">
   <img align="center" alt="javascript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="typescript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="react" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -20,3 +22,5 @@
   <br/>
   <br/>
 </div>
+</h2>
+
