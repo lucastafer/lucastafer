@@ -5,7 +5,7 @@
   💻 I'm a developer currently working in front-end and mobile development.
   <br/>
   <br/>
-  📚 Currently studying Dart/Flutter and Docker.
+  📚 Currently studying Dart/Flutter.
   <br/>
   <br/>
   🛠️ Main Stack
