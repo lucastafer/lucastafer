@@ -22,5 +22,8 @@
   </div>
 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastafer&layout=compact&langs_count=4&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastafer&layout=compact&langs_count=4&count_private=true&include_all_commits=true&show_icons=true&theme=dark" width="100%" />
+</div>
+
 
