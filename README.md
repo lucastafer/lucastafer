@@ -16,8 +16,11 @@
     <img align="center" alt="next" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
     <img align="center" alt="mui" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />        
     <img align="center" alt="node" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img align="center" alt="nest" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img align="center" alt="nest" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img align="center" alt="go" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
     <img align="center" alt="docker" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-    <img align="center" alt="kubernetes" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />    
   </div>
 </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastafer&layout=compact&langs_count=4&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
