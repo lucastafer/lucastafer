@@ -2,10 +2,10 @@
   Hello, my name is Lucas!
   <br/>
   <br/>
-  💻 I'm a developer currently working in front-end and mobile development.
+  💻 I'm a full stack developer currently working with TypeScript, Go and C#.
   <br/>
   <br/>
-  📚 Currently studying Golang.
+  📚 Currently studying Go and LLM's integrations.
   <br/>
   <br/>
   🛠️ Main Stack
@@ -21,9 +21,3 @@
     <img align="center" alt="docker" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   </div>
 </h2>
-
-<div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastafer&layout=compact&langs_count=4&count_private=true&include_all_commits=true&show_icons=true&theme=dark" width="100%" />
-</div>
-
-
