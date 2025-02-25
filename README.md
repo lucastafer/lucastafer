@@ -1,5 +1,5 @@
 <h2> 
-  Hello, my name is Lucas!
+  Hello, I'm Lucas 👋🏼
   <br/>
   <br/>
   💻 I'm a full stack developer currently working with TypeScript, Go and C#.
