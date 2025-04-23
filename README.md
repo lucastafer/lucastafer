@@ -2,7 +2,7 @@
   Hello, I'm Lucas 👋🏼
   <br/>
   <br/>
-  💻 I'm a full stack developer currently working with React.js, TypeScript, Go and C#.
+  💻 I'm a developer currently working with React.js, TypeScript, Go and C#.
   <br/>
   <br/>
   📚 Currently focusing studies on Go, LLM's integrations and Solidity.
