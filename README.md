@@ -5,7 +5,7 @@
   💻 I'm a developer currently working with React.js, TypeScript, Go and C#.
   <br/>
   <br/>
-  📚 Currently focusing studies on Go, LLM's integrations and Solidity.
+  📚 Currently focusing studies on Go, Nostr and Solidity.
   <br/>
   <br/>
   🛠️ Main Stack
