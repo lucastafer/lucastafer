@@ -2,10 +2,10 @@
   Hello, I'm Lucas 👋🏼
   <br/>
   <br/>
-  💻 I'm a developer currently working with React.js, TypeScript, Go and C#.
+  💻 I'm a developer currently working with TypeScript, React.js, React Native, Svelte and C#.
   <br/>
   <br/>
-  📚 Currently focusing studies on Go, Nostr and Solidity.
+  📚 Currently focusing studies on Go and Nostr solutions.
   <br/>
   <br/>
   🛠️ Main Stack
