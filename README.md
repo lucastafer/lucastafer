@@ -5,7 +5,7 @@
   💻 I'm a developer currently working with TypeScript, React.js, React Native, Svelte and C#.
   <br/>
   <br/>
-  📚 Focusing studies on C#, Go and Nostr solutions.
+  📚 Focusing studies on C# leet code and Golang.
   <br/>
   <br/>
   🛠️ Main Stack
