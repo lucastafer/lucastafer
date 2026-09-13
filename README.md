@@ -2,10 +2,10 @@
   Hello, I'm Lucas 👋🏼
   <br/>
   <br/>
-  💻 I'm a developer currently working with TypeScript, React.js, React Native, Svelte and C#.
+  💻 I'm a developer currently working with C# (.NET), TypeScript (React.js & React Native) and Golang.
   <br/>
   <br/>
-  📚 Focusing studies on C# leet code and Golang.
+  📚 Focusing studies on C# leet code and Azure DevOps certifications.
   <br/>
   <br/>
   🛠️ Main Stack
