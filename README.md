@@ -28,11 +28,9 @@ Currently studying **Azure**, **system design**, **software architecture** and a
 
 ## Current Focus
 
-- Azure AZ-104 / AZ-400
+- Azure AZ-104 / AZ-400 Certifications
 - System Design
-- Software Architecture
-- Advanced C#/.NET
-- Distributed Systems
+- Advanced C#/.NET Arhitecture & LeetCode
 
 <p align="left">
   <a href="https://lucastafer.dev">
