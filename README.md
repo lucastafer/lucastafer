@@ -4,7 +4,7 @@ Full-Stack Developer with 6 years of experience building web, mobile and backend
 
 Currently working with **C#/.NET, TypeScript, React, React Native and Go**, with hands-on experience in cloud, CI/CD, distributed systems and production environments.
 
-Currently studying **Azure**, **system design**, **software architecture** and advanced **C#/.NET** topics.
+Currently studying **Azure**, **system design** and advanced **C#/.NET** topics.
 
 ## Main Stack
 
