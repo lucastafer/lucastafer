@@ -1,8 +1,6 @@
 # Hello, I'm Lucas 👋🏼
 
-Full-Stack Developer with 6 years of experience building web, mobile and backend applications across Brazilian and international teams.
-
-Currently working with **C#/.NET, TypeScript, React, React Native and Go**.
+Full-Stack Developer with 6 years of experience building web, mobile and backend applications across Brazilian and international teams. Currently working with **C#/.NET, TypeScript, React, React Native and Go**.
 
 ## Main Stack
 
@@ -25,9 +23,8 @@ Currently working with **C#/.NET, TypeScript, React, React Native and Go**.
 ## Current Focus
 
 - Azure AZ-104 / AZ-400 Certifications
-- Advanced C#/.NET Concepts & LeetCode
-- System Design
-- Nostr & Lightining solutions
+- Advanced C# Concepts & LeetCode
+- Nostr & Lightning solutions
 
 <p align="left">
   <a href="https://lucastafer.dev">
