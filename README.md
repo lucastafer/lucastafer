@@ -2,9 +2,7 @@
 
 Full-Stack Developer with 6 years of experience building web, mobile and backend applications across Brazilian and international teams.
 
-Currently working with **C#/.NET, TypeScript, React, React Native and Go**, with hands-on experience in full-stack development, CI/CD, distributed systems and Nostr & Bitcoin solutions.
-
-Currently studying **Azure**, **system design** and advanced **C#/.NET** topics.
+Currently working with **C#/.NET, TypeScript, React, React Native and Go**, and fosucing studies on **Azure** certifications, **system design** and advanced **C#/.NET** topics.
 
 ## Main Stack
 
