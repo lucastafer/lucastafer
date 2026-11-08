@@ -22,8 +22,7 @@ Full-Stack Developer with 6 years of experience building web, mobile and backend
 
 ## Current Focus
 
-- Azure AZ-104 / AZ-400 Certifications
-- Advanced C# Concepts & LeetCode
+- Advanced Golang Concepts & LeetCode
 - Nostr & Lightning solutions
 
 <p align="left">
