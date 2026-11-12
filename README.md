@@ -2,15 +2,6 @@
 
 Full-Stack Developer with 6 years of experience building web, mobile and backend applications across Brazilian and international teams. Currently working with **C#/.NET, TypeScript, React, React Native and Go**.
 
-<p align="left">
-  <a href="https://lucastafer.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LUCASTAFER.DEV-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:lucastafer@proton.me">
-    <img src="https://img.shields.io/badge/EMAIL-LUCASTAFER%40PROTON.ME-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
 ## Main Stack
 
 <p align="left">
