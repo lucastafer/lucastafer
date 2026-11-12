@@ -2,7 +2,7 @@
 
 Full-Stack Developer with 6 years of experience building web, mobile and backend applications across Brazilian and international teams. Currently working with **C#/.NET, TypeScript, React, React Native and Go**.
 
-## Main Stack
+## Main stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" />
@@ -28,12 +28,12 @@ Full-Stack Developer with 6 years of experience building web, mobile and backend
 | [**RagForge**](https://github.com/lucastafer/RagForge) | Compact Retrieval-Augmented Generation API that works with any OpenAI-compatible provider. | C#, .NET, PostgreSQL |
 
 
-## Current Focus
+## Current focus
 
 - Advanced Golang Concepts & LeetCode
 - Nostr & Bitcoin/Lightning solutions
 
-## Languages Across My Repos
+## Languages across my repos
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
